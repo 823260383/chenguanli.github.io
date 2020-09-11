@@ -1,5 +1,5 @@
 ---
-layout: page	## 
+layout: page	
 title: 个人技术博客
 subtitle: My name is Big bear
 sitemap:
