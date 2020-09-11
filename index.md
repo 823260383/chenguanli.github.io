@@ -1,12 +1,12 @@
 ---
-layout: page
-title: 个人博客
+layout: page	## 
+title: 个人技术博客
 subtitle: My name is Big bear
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/xiongda.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>丹顶西炫颊，霜毛四皓须</p>
