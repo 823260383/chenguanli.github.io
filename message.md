@@ -10,7 +10,7 @@ subtitle: 一个很棒的留言板
 昵称：<input name ="小"> </input>
 联系人：<input name ="小"></input>
 联系方式：<input name ="小"></input>
-留言板：<textarea cols= "100" rows = "20" ></textarea>
+留言板：<textarea cols= "150" rows = "20" ></textarea>
 
 
 </div>
