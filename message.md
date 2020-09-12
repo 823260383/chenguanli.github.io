@@ -5,12 +5,7 @@ subtitle: 一个很棒的留言板
 
 ---
 
-<div>
-
-昵称：<input name ="小"> </input>
-联系人：<input name ="小"></input>
-联系方式：<input name ="小"></input>
-留言板：<textarea cols= "150" rows = "20" ></textarea>
-
-
-</div>
+<div>昵称：<input name ="小"> </div>
+<div>联系人：<input name ="小"></div>
+<div>联系方式：<input name ="小"></div>
+<div>留言板：<textarea cols= "150" rows = "20" ></textarea></div>
