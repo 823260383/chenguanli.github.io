@@ -35,7 +35,7 @@ Title - **PHP 的基本知识** <span style="float: right; ">2019</span>
 是否阅读过 PHP 源码，能否写 PHP 扩展，PHP 的架构是什么
 PHP 的垃圾回收机制是什么
 对于字符串和数字的比较，PHP 的比较过程是什么
-empty，== 等一些语法细节
+empty等一些语法细节
 PHP 都有哪些魔术方法
 <p>面试 PHP 程序员通常也会有 PHP 相关知识的考察，主要有以上几个方面的问题</p>
 
