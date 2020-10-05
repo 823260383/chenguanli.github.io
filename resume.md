@@ -11,9 +11,13 @@ subtitle: 一个很棒的人
 ``` 基本掌握HTML、css，认识PHP，熟练使用vscode,Xshell,Git等编程工具  ```  
 
 ### 项目
-**Laravel** - Laravel是一个为Web开发者打造的PHP开发框架。 - 私立华联学院 <span style="float: right; ">时间2019.3.1</span>   
 
-**Symfony** - Symfony是一个web应用开发框架，包含一组可重用的PHP组件。Symfony已经应用于上千个web应用，包括BlaBlaCar.com和Spotify.com以及大多数流行的PHP项目中，例如Drupal和Magento - 私立华联学院 <span style="float: right; ">2019.5.1</span>   
+**大尚鞋业** - 主要使用使用html和css，少量js设计的鞋业产品 - 私立华联学院 <span style="float: right; ">2018.10.1</span>   
+
+
+**NBA篮球名人堂-艾佛森** - 主要使用html和css，少量js设计的运动员简介和故事的页面 - 私立华联学院 <span style="float: right; ">2019.1.1</span>   
+
+**Laravel** - Laravel是一个为Web开发者打造的PHP开发框架。 - 私立华联学院 <span style="float: right; ">时间2019.3.1</span>   
 
 ### 教育
 
@@ -29,7 +33,7 @@ HTML、css、PHP、Mysql
 **初中课程**  
 
 
-### 经验
+### 百度经验
 
 Title - **PHP 的基本知识** <span style="float: right; ">2019</span>  
 是否阅读过 PHP 源码，能否写 PHP 扩展，PHP 的架构是什么
@@ -39,7 +43,7 @@ empty等一些语法细节
 PHP 都有哪些魔术方法
 <p>面试 PHP 程序员通常也会有 PHP 相关知识的考察，主要有以上几个方面的问题</p>
 
- 
+
 Title - **架构** <span style="float: right; ">Duration</span>  
 分布式系统的 CAP 理论是什么，Paxos 协议解决的是什么问题，Zookeeper 是否使用过
 如果让你设计一个秒杀系统，你会怎么设计保证系统能够高并发的流量以及库存不超卖。
