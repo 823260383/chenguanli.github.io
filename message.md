@@ -14,7 +14,9 @@ subtitle: 一个很棒的留言板
     <body>
         联系人：<input type="text" name="username" value="">
         联系方式：<input type="text" name="text" value="">
-        留言板：<textarea rows="30" cols="20"></textarea>
+        <div>
+        留言板：<textarea rows="10" cols="50"></textarea>
+        </div>
         <button>提交</button>
     </body>
 </html>
