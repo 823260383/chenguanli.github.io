@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 小小博客
+title: 个人博客
 subtitle: 一个很棒的人
 ---
 
@@ -15,9 +15,9 @@ subtitle: 一个很棒的人
 **大尚鞋业** - 主要使用使用html和css，少量js设计的鞋业产品 - 私立华联学院 <span style="float: right; ">2018.10.1</span>   
 
 
-**NBA篮球名人堂-艾佛森** - 主要使用html和css，少量js设计的运动员简介和故事的页面 - 私立华联学院 <span style="float: right; ">2019.1.1</span>   
+**NBA篮球名人堂 - 艾佛森** - 主要使用html和css，少量js设计的运动员简介和故事的页面 - 私立华联学院 <span style="float: right; ">2019.1.1</span>   
 
-**Laravel** - Laravel是一个为Web开发者打造的PHP开发框架。 - 私立华联学院 <span style="float: right; ">时间2019.3.1</span>   
+**Laravel** - Laravel是一个为Web开发者打造的PHP开发框架。 - 私立华联学院 <span style="float: right; ">2019.3.1</span>   
 
 ### 教育
 

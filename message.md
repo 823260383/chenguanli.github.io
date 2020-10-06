@@ -4,8 +4,6 @@ title: 留言板   ##
 subtitle: 一个很棒的留言板
 
 ---
-
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <title></title>
@@ -16,7 +14,7 @@ subtitle: 一个很棒的留言板
     <body>
         联系人：<input type="text" name="username" value="">
         联系方式：<input type="text" name="text" value="">
-        留言板：<textarea rows="150" cols="20"></textarea>
+        留言板：<textarea rows="30" cols="20"></textarea>
         <button>提交</button>
     </body>
 </html>

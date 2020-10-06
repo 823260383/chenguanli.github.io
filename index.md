@@ -1,6 +1,6 @@
 ---
 layout: page	
-title: 个人技术博客
+title: welcome!
 subtitle: My name is Big bear
 sitemap:
   priority: 0.9
