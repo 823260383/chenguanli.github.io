@@ -4,7 +4,7 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color:#201C1D;
-    background-image: url(../assets/img/background.jpg); }
+    background-color: #FFF; }
 
   a {
     color: #57A;
@@ -46,7 +46,9 @@
 
   .wrapper {
     max-width: 90%;
-    margin: 60px auto; }
+    margin: 60px auto;
+  background-image: url(../img/homework.jpg);
+  background-size: 100% 100%;}
 
 /* =Header *//*************************************************************/
   .header {
@@ -60,7 +62,7 @@
     font-weight: 700;
     color: #840288;
     display: block;
-  border-bottom: 5px solid; }
+    border-bottom: 5px solid; }
 
   .menu {
     color: #828282;
