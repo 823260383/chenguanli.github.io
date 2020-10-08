@@ -4,7 +4,8 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color:#201C1D;
-    background-color: #FFF; }
+    background-image: url(../img/homework.jpg);
+  background-size: 100% 100%; }
 
   a {
     color: #57A;
@@ -46,9 +47,7 @@
 
   .wrapper {
     max-width: 90%;
-    margin: 60px auto;
-  background-image: url(../img/homework.jpg);
-  background-size: 100% 100%;}
+    margin: 60px auto;}
 
 /* =Header *//*************************************************************/
   .header {
