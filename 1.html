@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title></title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/style.css" rel="stylesheet">
-    </head>
-    <body>
-        <input type="text" name="username" value="">
-        <input type="password" name="password" value="">
-        <textarea rows="150" cols="20"></textarea>
-    </body>
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+    <style>
+        .text span {
+            float: left;
+        }
+        button {
+            margin-left: 200px;
+        }
+    </style>
+</head>
+<body>
+<div class="content">
+联系人：<input type="text" name="username" value="">
+联系方式：<input type="text" name="text" value="">
+</div>
+<div class="text">
+    <span>留言板：</span><textarea rows="10" cols="50"></textarea>
+</div>
+<button>提交</button>
+</body>
 </html>
